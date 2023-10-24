@@ -4,7 +4,8 @@
 }
 
 .text-link {
-    color: F6AAB0
+    display: block
+    color: #F6AAB0
 }
 
 @media screen and (min-width: 990px) {
