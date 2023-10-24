@@ -3,13 +3,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .image {
-    max-width: 100%
+    max-width: 100%;
 }
 
 .text-link {
-    display: block
-    color: #F6AAB0
-    font-size: 36px
+    display: block;
+    color: #F6AAB0;
+    font-size: 36px;
 }
 
 @media screen and (min-width: 990px) {
@@ -19,7 +19,7 @@
         text-align: center;
     }
     .image {
-        max-width: 720px
+        max-width: 720px;
     }
 }
   
